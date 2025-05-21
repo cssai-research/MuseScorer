@@ -1,0 +1,590 @@
+for_user_id,item,fluency,originality,flexibility,sex,education
+01VqTes5,brick,5,1.45,2.333333333,Male,Bachelor's or RN degree
+05atXwmG,paperclip,7,2.285714286,6,Male,Master's Degree
+07G60fD3,brick,7,2.142857143,6.666666667,Male,High school graduate
+0BXXso67,paperclip,6,2.5,6,Female,Master's Degree
+0fUF134J,paperclip,2,1.875,2,Female,Some college but no college degree
+0G7118lv,brick,4,2.125,4,Male,Associate's (AA) Degree
+0ghL50Ke,brick,5,1.75,4,Female,Some college but no college degree
+0lYv3kja,brick,4,1.6875,3,Male,Bachelor's or RN degree
+0n661va4,brick,10,1.45,3.666666667,Female,"Other, please specify:"
+0TWiZolg,brick,6,1.333333333,4.666666667,Female,Some college but no college degree
+0vNR3LcA,paperclip,8,1.96875,6.333333333,Male,Master's Degree
+0x135kJT,brick,8,1.96875,7.666666667,Male,Master's Degree
+0z2AZnax,paperclip,2,1.75,2,Female,Some college but no college degree
+0z8276gI,brick,5,1.45,4.666666667,Female,Some college but no college degree
+10z2wJHQ,paperclip,3,1.5,3,Female,General Equivalency Diploma (GED)
+11z914TK,brick,8,1.90625,4.666666667,Female,Associate's (AA) Degree
+128l3MK0,paperclip,7,2.535714286,6.333333333,Male,Some graduate school
+13ny39cg,paperclip,6,2.166666667,5.666666667,Male,Master's Degree
+14BdrD3U,paperclip,6,2.714285714,6.333333333,Male,Some college but no college degree
+16lsiLpf,brick,10,2.275,7.666666667,Female,Bachelor's or RN degree
+16scmgQe,brick,8,1.78125,6,Female,Bachelor's or RN degree
+184nBf5b,paperclip,4,2.8125,4,Female,Some college but no college degree
+1aF77W6m,paperclip,5,1.95,4.666666667,Female,Associate's (AA) Degree
+1BHxIRq1,paperclip,8,2.21875,6.333333333,[Not Answered],Some college but no college degree
+1hb56yYu,paperclip,5,2.6,4,Female,Some college but no college degree
+1S8A5eB9,paperclip,3,1.916666667,2,Male,Some college but no college degree
+1SPiV603,brick,3,2,3,Female,Some college but no college degree
+1XnEb10C,brick,8,2.3125,6.666666667,Male,Master's Degree
+1xS08G27,paperclip,10,2.3,6,Female,Some college but no college degree
+1y5hCDj2,brick,11,2.227272727,9.333333333,Male,High school graduate
+1zNzBi5Y,paperclip,4,2.75,4,Male,Some college but no college degree
+210kdtBq,brick,3,1.25,2.666666667,Female,Some college but no college degree
+21tqVp1y,brick,6,1.625,4.333333333,Female,Bachelor's or RN degree
+25D5c5m2,paperclip,8,2.15625,6.666666667,Female,Some graduate school
+26AI7yNO,paperclip,3,2.333333333,3,Male,Associate's (AA) Degree
+2d2KH3S9,brick,3,1.75,2,Male,Some college but no college degree
+2Dh2v55u,brick,3,2.583333333,3,Male,Associate's (AA) Degree
+2E2qy4K0,brick,11,2.598484848,9.333333333,Female,Master's Degree
+2FhA1V0Q,paperclip,8,2.3125,7.666666667,Male,High school graduate
+2FtPmg0Q,paperclip,5,1.95,4.666666667,Male,Bachelor's or RN degree
+2IEcg7El,paperclip,3,1.416666667,2.333333333,Male,Doctoral or Law Degree
+2J8vhJyv,brick,9,1.666666667,5,Female,Some college but no college degree
+2nxx6Yf9,brick,9,1.694444444,6.333333333,Female,Some college but no college degree
+2PtjMrzC,brick,7,1.821428571,6.333333333,Male,Some college but no college degree
+2RpEH99c,brick,4,2.6875,3.333333333,Female,Some college but no college degree
+2T268S98,paperclip,2,2.125,2,Female,Some college but no college degree
+2U79djJ6,paperclip,5,2.55,5,Female,Some college but no college degree
+2vKh22Tq,paperclip,3,2,3,Female,General Equivalency Diploma (GED)
+2Xywd76Z,paperclip,1,2,1.333333333,Female,Some college but no college degree
+30Z2IWHA,brick,8,1.854166667,3.666666667,Female,Bachelor's or RN degree
+332VeAed,brick,4,2.3125,4,Female,Master's Degree
+344dbgyl,paperclip,4,2.1875,4,Female,Bachelor's or RN degree
+365hZA15,brick,9,2.333333333,8.666666667,Female,Some college but no college degree
+3697RZcw,brick,1,1.5,1,Male,Associate's (AA) Degree
+3a4J68MA,brick,5,1.716666667,3.666666667,Female,Bachelor's or RN degree
+3afo6Ob6,brick,6,1.708333333,6,Male,Bachelor's or RN degree
+3aN58Jw7,brick,6,1.666666667,4.666666667,Male,Master's Degree
+3drmN5S2,paperclip,6,2.208333333,4.666666667,Female,Some college but no college degree
+3dysp210,brick,5,2.25,5,Male,Some college but no college degree
+3fDKk8eo,paperclip,8,2.375,7,Male,Some college but no college degree
+3KwNtbkQ,paperclip,6,1.958333333,5,Female,Some college but no college degree
+3N0X21zt,brick,14,1.928571429,10.66666667,Female,Master's Degree
+3N1tv1g7,paperclip,5,2.25,4.666666667,Female,Some college but no college degree
+3qx6PWXs,paperclip,6,1.708333333,5,Female,Some college but no college degree
+3rG4FDn6,brick,7,1.75,4.333333333,Male,High school graduate
+3vBR15MO,paperclip,9,2.638888889,7.666666667,Female,Associate's (AA) Degree
+435BgI61,paperclip,7,2.5,6,Male,Some college but no college degree
+46nE85l6,paperclip,2,1,1,Male,Master's Degree
+47h4XUb6,brick,7,1.535714286,3,[Not Answered],Some college but no college degree
+4adIFJkZ,paperclip,4,2.125,4,Female,Doctoral or Law Degree
+4dUr6hnh,brick,14,2.607142857,13.33333333,Female,Bachelor's or RN degree
+4evEspH2,brick,8,1.6875,3.666666667,Female,Bachelor's or RN degree
+4HiPU3ch,paperclip,4,2.75,3,Female,Some college but no college degree
+4IpDwdI5,brick,7,1.571428571,5.333333333,Female,Master's Degree
+4No6x5W4,paperclip,5,2.3,4.666666667,Male,Some college but no college degree
+4q5kz2kx,brick,6,1.125,2.666666667,Male,Some college but no college degree
+4RcV7Sp1,paperclip,9,2.55,7,Female,Associate's (AA) Degree
+4VoT0krX,brick,7,1.892857143,6.333333333,Male,Doctoral or Law Degree
+4VzH60D1,brick,13,1.711538462,8.333333333,Female,Master's Degree
+4WeqZ7T8,brick,7,1.428571429,2.333333333,Male,General Equivalency Diploma (GED)
+4XgOK49q,brick,6,1.208333333,2.333333333,Male,High school graduate
+4ys9hBH1,brick,10,1.525,6,Female,Some college but no college degree
+5122L8am,brick,6,2.416666667,6,Female,Bachelor's or RN degree
+517P11oo,brick,3,1.916666667,2.666666667,Male,Some college but no college degree
+55kB7oGZ,brick,3,1.583333333,3,Male,Some college but no college degree
+55L6Wwjn,paperclip,3,1.5,2.333333333,Male,High school graduate
+57D9S225,paperclip,3,1.666666667,3,Male,Bachelor's or RN degree
+57ZLnnlc,paperclip,7,2.464285714,7,Female,Bachelor's or RN degree
+59auf5Di,paperclip,4,2.5625,3,Female,Some college but no college degree
+5A0P72Lh,brick,1,1,1,Female,Master's Degree
+5CH3FMbC,paperclip,7,2.035714286,6,Female,Bachelor's or RN degree
+5d5xLMEq,brick,4,2.75,3,Male,Some college but no college degree
+5fii6yAD,paperclip,1,2.25,1,Male,High school graduate
+5GS33saU,paperclip,5,1.95,4.666666667,Female,Master's Degree
+5HXO64Ya,paperclip,4,2.5625,4,Female,General Equivalency Diploma (GED)
+5KN8A59N,paperclip,5,2.1,4.333333333,Female,High school graduate
+5LC5K5oU,paperclip,2,2.125,2,Female,Master's Degree
+5PB3Bb88,brick,4,1.5,1.666666667,Female,High school graduate
+5spKk965,paperclip,3,2.583333333,3,Female,Bachelor's or RN degree
+5SRJR5D5,brick,11,2,6.333333333,Female,Bachelor's or RN degree
+5T96gwt6,brick,5,2.5,3.666666667,Female,Some college but no college degree
+5Tsk755o,paperclip,5,1.95,4.666666667,Female,Some graduate school
+5vOtwDx3,paperclip,6,2.458333333,6,Male,Bachelor's or RN degree
+5zfFE44T,paperclip,1,1.75,1,Male,Some college but no college degree
+619m9P17,brick,4,1.5,3.333333333,Female,Master's Degree
+63a1Gxgq,brick,10,2.375,8,Male,Some college but no college degree
+65805qnA,brick,10,1.875,6.333333333,Male,High school graduate
+66jawKKi,brick,6,1.708333333,3.333333333,Female,General Equivalency Diploma (GED)
+672NRTzv,brick,3,1.5,2.333333333,Female,Some college but no college degree
+67q3o3y7,paperclip,4,2.6875,4,Female,Bachelor's or RN degree
+683d1PBR,brick,4,1.9375,3.333333333,Male,Some college but no college degree
+68P7GeOl,brick,6,2.041666667,2.666666667,Male,Associate's (AA) Degree
+68tvdfYb,brick,4,1.75,3.666666667,Female,Bachelor's or RN degree
+6B7M68Fb,brick,12,1.5,4,Male,Master's Degree
+6D6d2I55,brick,6,1.55,4.5,Female,Some college but no college degree
+6EcRhhAL,paperclip,12,2.3125,10,Female,Bachelor's or RN degree
+6ERmJDe3,brick,8,1.78125,7,Female,Some college but no college degree
+6gNs42nt,paperclip,7,2.392857143,5,Female,Master's Degree
+6hETnw58,brick,4,1.5625,3,Female,Some college but no college degree
+6hf8viCt,paperclip,9,2.305555556,8.333333333,Male,Some college but no college degree
+6K46lbH7,paperclip,3,2.416666667,3,Female,Some college but no college degree
+6kTekgee,brick,9,2.018518519,6,Female,Bachelor's or RN degree
+6l6w0BaA,paperclip,3,1.666666667,3,Female,Some college but no college degree
+6lN1aCrC,brick,5,1.4,2.666666667,Female,Some college but no college degree
+6q5Wz6lI,brick,4,1.4375,1.333333333,Female,General Equivalency Diploma (GED)
+6xuQ1Z9X,paperclip,5,1.708333333,6,Male,High school graduate
+714kNX5M,paperclip,8,2.5,7,Female,Bachelor's or RN degree
+72I2UHeb,paperclip,9,2.277777778,5,Female,Bachelor's or RN degree
+737W95CH,brick,11,2.090909091,9.333333333,Female,Some college but no college degree
+74I0f64D,brick,15,2.875,6,Male,Bachelor's or RN degree
+77sZintI,paperclip,7,2.178571429,6.666666667,Male,Some college but no college degree
+78E0pqW2,brick,9,2.333333333,7.666666667,Female,Bachelor's or RN degree
+7Alo1fos,brick,8,2.197916667,6.666666667,Male,Associate's (AA) Degree
+7Ax9AeZ2,paperclip,6,2.222222222,6,Female,Associate's (AA) Degree
+7bxXP4eJ,paperclip,6,2.333333333,5,Female,Some college but no college degree
+7GArH3BH,paperclip,3,2.75,3,Female,High school graduate
+7Gm32lak,paperclip,4,1.875,3.666666667,Female,High school graduate
+7hi72B6r,paperclip,5,2.25,4,Male,Bachelor's or RN degree
+7iC45VYt,brick,8,2.0625,8,Male,Bachelor's or RN degree
+7K7X3aB5,paperclip,4,2.3125,3.666666667,Male,Some college but no college degree
+7Lo5m3w8,paperclip,7,2.142857143,5,Female,Bachelor's or RN degree
+7mMz4Cl3,brick,9,1.972222222,8,Male,Some college but no college degree
+7OHW073E,paperclip,9,2.305555556,6,Female,Some college but no college degree
+7oUpJA0Y,brick,6,2.041666667,6,Male,Some college but no college degree
+7tAp1G0i,paperclip,10,2.416666667,9.666666667,Female,Bachelor's or RN degree
+7TsEhr8Z,paperclip,4,1.9375,3.333333333,Male,Bachelor's or RN degree
+7uS4dhoU,paperclip,5,2.1,5,Male,Bachelor's or RN degree
+7wM6Howz,brick,6,1.583333333,2.333333333,Male,Some college but no college degree
+7zQyX2c4,paperclip,5,2.25,4.666666667,Male,High school graduate
+8231icq2,brick,7,2.178571429,5.666666667,Female,Some college but no college degree
+82WWAsi8,paperclip,3,2.083333333,3,Female,High school graduate
+84I2QjCD,brick,7,1.392857143,3.333333333,Male,Some college but no college degree
+865alos8,brick,9,1.5,7.666666667,Female,"Other, please specify:"
+888P21nX,paperclip,8,2.25,7,Female,Some graduate school
+88ft50be,paperclip,10,2.425,8.333333333,Female,Bachelor's or RN degree
+8dsuK18a,paperclip,6,2.25,6,Male,Associate's (AA) Degree
+8etU6423,brick,5,2.866666667,4,Female,Some graduate school
+8exnS05w,paperclip,7,2.5,6.333333333,Female,Some college but no college degree
+8gDXlAq1,brick,4,1.25,2.666666667,Female,Some graduate school
+8nIGic28,brick,6,1.791666667,5.333333333,Male,Bachelor's or RN degree
+8QXs25dr,paperclip,5,1.95,4.666666667,Female,Bachelor's or RN degree
+8rKs8DW2,brick,7,1.857142857,4.333333333,Female,Associate's (AA) Degree
+8tmPV3b2,brick,13,1.923076923,9.666666667,Female,Master's Degree
+8UP73BqP,brick,4,1.875,4,Male,Bachelor's or RN degree
+8x0NWvRS,brick,9,1.777777778,8,Female,Master's Degree
+8xBSw388,brick,6,1.75,5.333333333,Female,Some college but no college degree
+8ys0v7m4,brick,5,1.95,4.333333333,Male,Some college but no college degree
+900RaAbM,brick,4,1.625,2.666666667,Female,Associate's (AA) Degree
+90lmw7pq,brick,4,1.375,4,Female,Bachelor's or RN degree
+978s3cff,brick,7,2.071428571,6.333333333,Male,Associate's (AA) Degree
+99ao74dS,brick,5,1.85,3.333333333,Male,Some college but no college degree
+99LrpkPZ,brick,11,2.386363636,8.666666667,Female,Bachelor's or RN degree
+9cGn0FdJ,brick,4,2.0625,3.333333333,Male,Some college but no college degree
+9DATQk19,brick,5,1.7,4.666666667,Male,Some college but no college degree
+9Ip75teO,paperclip,4,2.4375,4,Female,Some college but no college degree
+9mlyecrJ,paperclip,6,2.523809524,6.333333333,Female,Some college but no college degree
+9qInF3rw,brick,7,1.642857143,5,Female,Some college but no college degree
+9stodL1U,brick,7,2.285714286,6.333333333,Female,Some college but no college degree
+9tIJP9tr,brick,3,1.333333333,2,Male,Some college but no college degree
+9Vtree6i,paperclip,5,2.883333333,4,Female,Associate's (AA) Degree
+9wW6AB6o,brick,11,1.75,6,Female,Bachelor's or RN degree
+9Xxv7HVW,brick,10,1.475,5,Female,Bachelor's or RN degree
+9ZsvZCS0,paperclip,10,2.3,9,Female,Some college but no college degree
+A04NGLXd,brick,8,1.59375,2.333333333,Female,Master's Degree
+a1sXl67O,brick,10,1.675,7.666666667,Female,Doctoral or Law Degree
+a22F7mGo,brick,5,1.7,5,Female,Bachelor's or RN degree
+A26c3z9n,paperclip,9,2.361111111,6.333333333,Female,Some college but no college degree
+A2I3zLm4,paperclip,9,1.861111111,7.333333333,Female,Some college but no college degree
+a3C6fX0r,brick,4,2.6875,4,Female,Some college but no college degree
+a86AOJNG,brick,5,1.95,5,Female,Some college but no college degree
+ac93CkSi,paperclip,12,2.479166667,9.333333333,Female,Master's Degree
+aCvQh67K,brick,4,1.4375,3,Female,Bachelor's or RN degree
+ad0TqaYE,brick,1,1.5,1,Female,Bachelor's or RN degree
+AGYRgU1p,brick,5,1.6,2.333333333,Male,Associate's (AA) Degree
+aGzhYc5T,paperclip,9,2.5,7,Female,Bachelor's or RN degree
+AHxx5oRE,paperclip,7,2.714285714,6.666666667,Female,Some college but no college degree
+aiu7Y4jY,brick,5,1.65,2.333333333,Male,Some college but no college degree
+AjzQ485d,paperclip,4,2.5,4,Male,Bachelor's or RN degree
+ak3D0gDJ,paperclip,4,2.0625,4,Male,Some college but no college degree
+aKRPi4oZ,brick,8,1.8125,6.666666667,Male,Bachelor's or RN degree
+an58NLsL,brick,11,2.386363636,10.33333333,Male,Master's Degree
+aP33crx5,brick,9,1.972222222,8.666666667,Male,Bachelor's or RN degree
+aPAbQF7T,brick,3,1.416666667,2.666666667,Female,Bachelor's or RN degree
+AtOs67ky,brick,8,2.5625,6.333333333,Female,Some college but no college degree
+Au6dHbiR,brick,6,1.958333333,5.666666667,Female,General Equivalency Diploma (GED)
+AW7FwnXu,brick,6,2.083333333,5.666666667,Female,Associate's (AA) Degree
+B0o9M8xC,paperclip,17,2.602941176,11.66666667,Female,Bachelor's or RN degree
+b180td4X,brick,6,1.666666667,4.666666667,Male,Some college but no college degree
+B2edM796,paperclip,6,2.125,5.333333333,Male,Bachelor's or RN degree
+b2fcis6W,paperclip,4,2.25,3.666666667,Male,Some college but no college degree
+b3AN0bjD,paperclip,8,1.71875,5,Female,Associate's (AA) Degree
+b52wN2J4,paperclip,5,2.35,4.333333333,Female,Some graduate school
+B58NwC54,paperclip,4,2.25,3.666666667,Male,Bachelor's or RN degree
+B8EkU1fk,brick,5,1.25,4,Female,Some graduate school
+B8x6J8Cu,brick,8,1.28125,3.333333333,Female,Bachelor's or RN degree
+b93mLY15,paperclip,7,2.071428571,6.666666667,Female,"Other, please specify:"
+ba1FcFHt,paperclip,9,2.472222222,8,Female,Bachelor's or RN degree
+BaQk6mT1,paperclip,3,2.645833333,4,Female,Some college but no college degree
+BB3KJdhl,brick,8,1.34375,4,Female,Bachelor's or RN degree
+bCCPp06L,paperclip,8,2.125,6.333333333,Female,Bachelor's or RN degree
+bDv6Dpf4,paperclip,8,2.3125,8,Female,Bachelor's or RN degree
+BETA8TpC,brick,7,2.035714286,6.333333333,Female,Associate's (AA) Degree
+bfOfv2B9,brick,7,1.714285714,3,Female,Bachelor's or RN degree
+BJx2mO6R,paperclip,6,2.291666667,5,Male,Some graduate school
+bM0Ib3j5,paperclip,4,1.75,2.333333333,Male,Some college but no college degree
+btcTmH43,paperclip,5,2.05,2.666666667,Female,Some college but no college degree
+bU801XR6,paperclip,4,2.25,2.666666667,Male,High school graduate
+C0fi1Rtn,paperclip,4,2.375,3.666666667,Male,Bachelor's or RN degree
+c62vD57c,paperclip,10,1.625,6.666666667,Male,Some college but no college degree
+C67DPV18,brick,6,1.916666667,5.333333333,Female,Bachelor's or RN degree
+c73oB20h,paperclip,4,2.0625,3.333333333,Male,Bachelor's or RN degree
+C8q1Ph4i,brick,6,2.333333333,6,Female,Associate's (AA) Degree
+C9hwW590,paperclip,7,2.035714286,6,Female,General Equivalency Diploma (GED)
+Ccn6Y56v,paperclip,4,2.125,4,Female,Associate's (AA) Degree
+Ce87d074,brick,6,1.75,5.333333333,Male,Bachelor's or RN degree
+Cg25X24o,brick,3,1.583333333,3,Male,High school graduate
+ChL1fI6f,paperclip,1,1,1,Female,Bachelor's or RN degree
+cIvhY884,paperclip,6,1.916666667,4.666666667,Female,Some college but no college degree
+cMdakEnx,brick,8,1.84375,6,Male,Bachelor's or RN degree
+Ct2dB902,brick,5,2,4.333333333,Female,"Other, please specify:"
+D0oEDjkj,brick,7,1.321428571,5.333333333,Female,Some college but no college degree
+D13S9Cg0,brick,9,1.666666667,4.666666667,Female,High school graduate
+D51VgBRW,paperclip,9,2.287037037,8.333333333,Male,Associate's (AA) Degree
+d899i6rX,paperclip,4,2.0625,4,Female,Associate's (AA) Degree
+D9ZeYC3r,paperclip,8,2.6875,7,Male,High school graduate
+dCKR8659,brick,6,1.75,6,Female,Bachelor's or RN degree
+DD94108z,brick,12,1.708333333,8.666666667,Female,Some college but no college degree
+dENdB2Qt,paperclip,15,2.366666667,11.33333333,Male,Doctoral or Law Degree
+dF90wsE2,brick,8,1.65625,6.666666667,Male,Master's Degree
+DH4EoL1H,paperclip,1,1,1,Male,High school graduate
+dJl6KX4C,brick,6,1.375,5,[Not Answered],Some college but no college degree
+dmIgzB0X,paperclip,10,2.225,8.666666667,Male,Some college but no college degree
+Ds5W7uZh,brick,10,2.05,8.333333333,Female,Bachelor's or RN degree
+dTYiXuFS,paperclip,2,1.625,2,Male,High school graduate
+Dw04qHCX,paperclip,7,1.892857143,5.666666667,Male,Bachelor's or RN degree
+dwgD2J8Z,brick,4,2.3125,4,Male,General Equivalency Diploma (GED)
+DXQb2R2M,brick,8,1.458333333,2.333333333,Female,Some college but no college degree
+e16V8C6A,paperclip,4,1.6875,4,Female,Bachelor's or RN degree
+e1t22a36,brick,11,2.5,10,Female,Some college but no college degree
+E2W2flhW,brick,5,1.7,4.333333333,Female,Some college but no college degree
+e72hRl7Y,brick,3,1.583333333,3,Male,High school graduate
+ec4h4OE3,paperclip,5,2.2,4.666666667,Male,Some college but no college degree
+ef69VTb3,paperclip,6,2.375,6,Female,Bachelor's or RN degree
+Ei6PYuoa,brick,5,2.55,3.666666667,Male,Associate's (AA) Degree
+eKeAvV0P,brick,13,1.711538462,8.333333333,Female,Bachelor's or RN degree
+EO5hLP9v,brick,4,2.4375,3.333333333,Male,Some college but no college degree
+EoD82940,brick,9,1.527777778,4.666666667,Male,Master's Degree
+EqZE362k,paperclip,9,2.916666667,5.333333333,Male,Some college but no college degree
+euaMDyU7,paperclip,8,2.25,5.333333333,Male,Some college but no college degree
+EwBSSB2k,paperclip,5,2.625,6,Male,Bachelor's or RN degree
+F3E7d323,paperclip,2,2,2,Female,Master's Degree
+F6C3p16Q,brick,7,2.035714286,6,Female,Some college but no college degree
+F74d5I2Y,brick,5,1.4,3,Female,Some college but no college degree
+faOPf746,brick,9,2.361111111,8.666666667,Female,Doctoral or Law Degree
+FdOMf9nm,paperclip,7,2.75,6.666666667,Male,Some college but no college degree
+FE7ZtheE,paperclip,3,1.416666667,2.333333333,Female,Bachelor's or RN degree
+fF0xmCfi,paperclip,1,1,1,Female,High school graduate
+Fh8745VU,paperclip,8,2.472222222,7,Male,Master's Degree
+fpSd88hY,paperclip,5,3,4.666666667,Male,Doctoral or Law Degree
+FQfN6485,paperclip,5,2.05,3.666666667,Male,Some college but no college degree
+fuw6erRl,brick,4,1.5,2.666666667,Female,Some college but no college degree
+FVKi04e2,brick,9,1.694444444,5,Male,Doctoral or Law Degree
+fZ6O1FFo,brick,4,1.3125,3,Female,Some college but no college degree
+G1u8Znj3,paperclip,5,2.25,4.666666667,Female,Some college but no college degree
+g4H0570f,brick,8,2.375,6.666666667,Female,Master's Degree
+g5uvlF2v,paperclip,4,2.625,4,Female,Bachelor's or RN degree
+G63FgMsT,paperclip,9,2.325,5.666666667,Female,Bachelor's or RN degree
+GBLQ0YK2,paperclip,3,2.416666667,3,Female,Some college but no college degree
+gEOtW7kc,paperclip,9,2.083333333,7.333333333,Female,Some college but no college degree
+gf1ZRJqF,brick,4,1.625,3.333333333,Male,Bachelor's or RN degree
+GFR0BPPd,brick,6,1.333333333,2,Female,Associate's (AA) Degree
+gIk5xOKf,brick,6,1.821428571,6.333333333,Male,Some college but no college degree
+gjA0Fn4P,brick,14,2.214285714,12.33333333,Male,Master's Degree
+H0S1Pt9i,brick,8,2.0625,7.666666667,Male,Some graduate school
+H6CjN8B9,paperclip,9,2.444444444,8,Female,Bachelor's or RN degree
+h9jx69Z9,brick,9,2.138888889,7,Female,Some graduate school
+HC0uORy6,paperclip,5,2.15,4.333333333,Male,Some college but no college degree
+HcYiggdZ,paperclip,5,2.35,5,Male,Master's Degree
+hee1Wrlg,paperclip,5,2.7,5,Female,Bachelor's or RN degree
+hF5xX42i,brick,12,2.083333333,7.333333333,Female,Master's Degree
+hj8bSQrN,paperclip,12,2.354166667,11.33333333,Female,Bachelor's or RN degree
+HKol406l,brick,3,1.333333333,3,Male,Some college but no college degree
+Hl5tqv6W,paperclip,6,2.569444444,5.666666667,Female,Bachelor's or RN degree
+hMD9Qw58,paperclip,3,1.833333333,3.333333333,Male,Some college but no college degree
+hN3iIJxi,brick,6,1.833333333,6,Female,Some graduate school
+hy14tJ32,brick,8,1.625,7.333333333,Female,Bachelor's or RN degree
+hY8DrnuO,paperclip,4,2.3125,4,Female,Some college but no college degree
+I0w7ZH4h,brick,8,1.5,7.333333333,Male,Some college but no college degree
+I1jszdth,brick,2,2.125,2,Female,Bachelor's or RN degree
+I22Wl2uZ,brick,2,2.75,2,Female,High school graduate
+I7m5DGyu,paperclip,3,1.583333333,3,Female,Some college but no college degree
+I9fd07YI,brick,7,2.321428571,5.666666667,Female,Master's Degree
+iAmxL5kV,paperclip,3,2.166666667,3,Male,Bachelor's or RN degree
+ib5Yvt55,paperclip,4,2.875,4,Male,Some college but no college degree
+IBAxPrqG,brick,7,1.5,3.666666667,Male,Some college but no college degree
+iBhlq8TG,brick,3,1.833333333,1.666666667,Male,Some college but no college degree
+iC3RI2p2,paperclip,11,2.136363636,9,Female,High school graduate
+IcVu0w8g,brick,6,1.714285714,4.333333333,Female,Master's Degree
+IGFVw40K,brick,5,2.05,5,Female,Some college but no college degree
+IRO67sd7,brick,3,1.666666667,2.666666667,Female,Associate's (AA) Degree
+iVOZgWb9,paperclip,4,2.125,3.666666667,Female,Bachelor's or RN degree
+j0DY4Qzg,paperclip,7,2.571428571,7,Female,Bachelor's or RN degree
+j2pr9SC4,paperclip,11,2.272727273,9.666666667,Female,Bachelor's or RN degree
+jabz8ZMA,paperclip,2,1.625,2,Female,Some college but no college degree
+Jc1pC053,paperclip,3,2.25,3,Female,Some college but no college degree
+jC6kp1W5,paperclip,4,1.75,3.333333333,Female,Bachelor's or RN degree
+JE5LUVea,paperclip,1,1,1,Female,Some college but no college degree
+jhX9tFGh,paperclip,5,2.25,3.333333333,Female,Some graduate school
+Jji0e564,brick,6,1.291666667,4.333333333,Female,Bachelor's or RN degree
+JlTb0mcF,paperclip,6,2.25,5.666666667,Female,Some college but no college degree
+JqylEalT,brick,4,1.1875,1.666666667,Female,Some college but no college degree
+jQzd3rhk,brick,6,1.416666667,3.666666667,Female,Master's Degree
+JwPQBC80,paperclip,3,2.25,3,Female,Associate's (AA) Degree
+JxuQ6c1f,paperclip,6,1.958333333,5.333333333,Female,Some college but no college degree
+jZeyKHnS,paperclip,7,2.694444444,5,Male,Bachelor's or RN degree
+K3YUPL5g,brick,6,1.541666667,5.333333333,Female,Some college but no college degree
+K4mPL0l6,paperclip,7,2.5,6.333333333,Male,Bachelor's or RN degree
+K5j720Ym,paperclip,4,2.4375,4,Male,Bachelor's or RN degree
+K6LmqSD5,paperclip,5,2.6,4.666666667,Male,Some college but no college degree
+K883nL64,paperclip,5,2.35,5,Male,Bachelor's or RN degree
+KCptHutj,paperclip,5,1.833333333,2.666666667,Male,Bachelor's or RN degree
+KEVF844q,brick,5,2.25,4.333333333,Male,Some college but no college degree
+Kf5hYM86,paperclip,6,2.375,5.333333333,Male,Some college but no college degree
+kF9615f2,paperclip,6,2.458333333,6,Female,Associate's (AA) Degree
+KjWbuB23,brick,14,2.178571429,9.666666667,Male,Some college but no college degree
+KmUX88nb,paperclip,5,2,5,Male,Some college but no college degree
+KNj3o6fP,paperclip,6,2.194444444,5,Female,Master's Degree
+kPD89jW3,paperclip,6,2.75,5.666666667,Male,General Equivalency Diploma (GED)
+KrS6IRo8,paperclip,3,2.583333333,3,Male,High school graduate
+kSW0g9ZD,brick,7,2.285714286,6,Female,Some college but no college degree
+KxZ68Dlf,paperclip,9,2.12037037,7.666666667,Male,General Equivalency Diploma (GED)
+l66h8TSK,paperclip,6,2.319444444,6,Male,Associate's (AA) Degree
+l7N9V4Mr,paperclip,7,1.464285714,5.666666667,Female,Some college but no college degree
+l976kyQ1,paperclip,5,2.25,3,Female,Bachelor's or RN degree
+l9pCqCGT,paperclip,9,2.055555556,7.666666667,Female,Bachelor's or RN degree
+LcB8W68g,paperclip,4,2.5625,4,Male,Master's Degree
+lD7jWtiL,paperclip,4,2.25,3,Female,Bachelor's or RN degree
+Lec2y841,paperclip,7,2.071428571,6.666666667,Male,Master's Degree
+lGi8mYM4,paperclip,8,1.96875,6.333333333,Female,Master's Degree
+Lim9214A,brick,6,1.666666667,5,Female,Bachelor's or RN degree
+LJVEME40,brick,7,1.392857143,3.333333333,Female,Bachelor's or RN degree
+LN1p6396,paperclip,5,2.3,5,Male,Bachelor's or RN degree
+LPQ9qCo5,brick,4,3,4,Male,Bachelor's or RN degree
+Lr5bzVBf,paperclip,3,1.833333333,3,Male,Some college but no college degree
+Lr6WcnQu,paperclip,9,2.027777778,7.333333333,Male,Bachelor's or RN degree
+ls85DI0O,paperclip,6,1.583333333,4.333333333,Female,Associate's (AA) Degree
+Lu2upD98,brick,6,1.166666667,2.666666667,Female,Some college but no college degree
+lU6lAi5X,brick,3,1.333333333,3,Female,Associate's (AA) Degree
+M01qi2vc,paperclip,4,2.25,4,Female,Some college but no college degree
+M5603YCQ,brick,8,1.375,3.333333333,Female,High school graduate
+M647My8g,brick,10,1.65,4.666666667,Female,Some college but no college degree
+m77nfH6L,paperclip,4,1.5,3,Male,Bachelor's or RN degree
+M826NWy8,paperclip,15,2.266666667,11,Female,Master's Degree
+m9S84IQd,paperclip,4,2.75,4,Male,Bachelor's or RN degree
+MBYB7Nz5,paperclip,6,2.5,5.333333333,Female,High school graduate
+mctpMb8Q,paperclip,4,1.8125,4,Female,Bachelor's or RN degree
+MEQY2Ba3,brick,3,1.125,2,Male,Doctoral or Law Degree
+mfgxaq4c,paperclip,5,2.95,5,Female,Some college but no college degree
+mhcrc4iq,paperclip,7,2.428571429,6.666666667,Female,Doctoral or Law Degree
+mmD57gcr,paperclip,6,2.041666667,5.333333333,Female,Master's Degree
+mqMj47H6,brick,6,2.041666667,5.666666667,Male,Bachelor's or RN degree
+Mr20YMh5,brick,9,2,9,"Other, please specify:",Some college but no college degree
+mv2wBo0e,brick,3,1.666666667,3,Female,Bachelor's or RN degree
+MXicONTd,paperclip,6,2.178571429,6.333333333,Female,Associate's (AA) Degree
+MzKGrHfk,paperclip,8,2.15625,6.666666667,Female,Some college but no college degree
+n0jCAZ1s,paperclip,9,2.509259259,5.666666667,Female,Bachelor's or RN degree
+n2FRDiVu,brick,8,1.65625,6,Male,Some college but no college degree
+N311258W,paperclip,5,1.75,3.666666667,Female,Some college but no college degree
+N3nR96o7,brick,7,1.678571429,5.333333333,Female,Bachelor's or RN degree
+N7D6XM87,brick,4,2.1875,4,Male,Some college but no college degree
+Na5C17A6,paperclip,6,2.541666667,6,Male,Some college but no college degree
+nj9z7Ka2,brick,7,2.053571429,6.333333333,Male,Bachelor's or RN degree
+nNBNu992,paperclip,5,2.15,4.666666667,Female,Master's Degree
+noV1USM9,brick,4,1.6875,3.666666667,Male,Master's Degree
+ns93rRC6,brick,5,1.7,5,Female,Bachelor's or RN degree
+nStEJbi0,paperclip,5,2,3,Female,Some college but no college degree
+nt3hH1X4,brick,8,2.03125,6.333333333,Male,Some college but no college degree
+NXFB8KQ5,paperclip,3,2.166666667,3,Male,General Equivalency Diploma (GED)
+O3A01apk,paperclip,11,2.25,10.66666667,Male,Bachelor's or RN degree
+o65EfhY5,paperclip,7,2.357142857,7,[Not Answered],Some college but no college degree
+o72ZrbMG,paperclip,6,2.166666667,5,Female,High school graduate
+o7l657o7,brick,5,1.45,2.666666667,Female,Some college but no college degree
+o94ebF7p,brick,9,2.555555556,8,Male,Bachelor's or RN degree
+O9vSup0D,paperclip,4,1.875,4,Female,Master's Degree
+oa0XCM38,paperclip,5,2.05,4.666666667,Male,High school graduate
+oe31GysW,brick,3,1.111111111,2.666666667,Female,Some college but no college degree
+OknA7Qez,brick,5,1.2,3.666666667,Female,Bachelor's or RN degree
+oL55Ly8A,brick,3,1.333333333,2,Female,High school graduate
+omDXbFdx,paperclip,7,2.214285714,6.333333333,Male,Some college but no college degree
+oP2kzb61,brick,5,1.7,4,Female,Bachelor's or RN degree
+OpGVLc2i,paperclip,8,2.1875,7,Female,Doctoral or Law Degree
+opxAEih3,paperclip,7,1.785714286,6.666666667,Female,Bachelor's or RN degree
+oR8PlQ5I,brick,6,1.541666667,5.333333333,Female,Bachelor's or RN degree
+ovnlqK2x,brick,5,2.05,4,Female,Some college but no college degree
+OXGW4BSs,paperclip,5,2.5,4.666666667,Female,Bachelor's or RN degree
+P07U97OU,brick,19,1.907894737,13.66666667,Female,"Other, please specify:"
+p1157u5Q,brick,3,1.25,1.666666667,Female,Associate's (AA) Degree
+P3oBZCkA,paperclip,7,2.035714286,5.333333333,Female,Bachelor's or RN degree
+P51265dY,brick,2,1.25,1.333333333,Male,Bachelor's or RN degree
+p6CQZcJh,brick,6,1.791666667,5,Female,Bachelor's or RN degree
+p6GZwwsg,paperclip,4,2.3125,3,Female,Some college but no college degree
+PaK7pL8a,paperclip,2,1.5,2,Male,Bachelor's or RN degree
+pD79KXDl,paperclip,7,2,6.333333333,Female,Master's Degree
+PeidosaO,paperclip,3,2.333333333,2.666666667,Female,Associate's (AA) Degree
+PET0fcnM,brick,6,1.333333333,2.666666667,Female,Bachelor's or RN degree
+PfZkRQMq,brick,8,2.75,7.333333333,Female,Bachelor's or RN degree
+PgcPST7J,brick,1,1.25,1,Female,High school graduate
+pGGnM7T3,brick,11,1.818181818,9.666666667,Female,Associate's (AA) Degree
+Ph94atfW,brick,6,1.208333333,2.666666667,Female,High school graduate
+PMZgifGA,paperclip,4,1.5625,2.666666667,Female,Associate's (AA) Degree
+pRF1m4CT,brick,7,1.857142857,4.666666667,Male,Bachelor's or RN degree
+Pw36nZPi,brick,9,1.861111111,5.333333333,Female,Some college but no college degree
+PY70kA2n,brick,2,1.75,1.666666667,Male,High school graduate
+Pz7sXT3I,paperclip,3,1.833333333,3,Female,Bachelor's or RN degree
+Qb709hFR,brick,7,2.035714286,7,Male,Master's Degree
+QEGddD5m,brick,6,1.333333333,1.666666667,Male,Some college but no college degree
+qiHCOlEv,brick,4,1.75,3.666666667,Male,Some college but no college degree
+QnU42iu0,brick,9,1.966666667,5.333333333,Male,Associate's (AA) Degree
+qW1EAxi7,brick,6,2.25,5,Female,Doctoral or Law Degree
+Qw3OEGyE,brick,6,1.25,3.333333333,Female,Some college but no college degree
+qw8bWgR1,brick,4,2.25,4,Female,Some college but no college degree
+qXloCqw4,brick,6,1.541666667,3.666666667,Male,Bachelor's or RN degree
+qZwO9maC,paperclip,5,2.05,5,Male,Bachelor's or RN degree
+R0U9X8AP,paperclip,3,1.916666667,3,Female,General Equivalency Diploma (GED)
+r239i5kp,paperclip,3,1.666666667,3,Female,Associate's (AA) Degree
+rcjJj04f,brick,9,2.185185185,8,Female,Bachelor's or RN degree
+rcVR6LIp,brick,1,1.5,1,Female,Some college but no college degree
+re0HeWS7,brick,2,1.25,2,Male,Some college but no college degree
+RF5YP927,paperclip,2,3.125,2,Female,Bachelor's or RN degree
+RFtct4QX,brick,11,1.659090909,8.333333333,Male,Associate's (AA) Degree
+rG6gvMfs,paperclip,2,2.5,2,Male,Associate's (AA) Degree
+Rl8IcXro,paperclip,5,2.65,4,Female,Bachelor's or RN degree
+RMR1O96P,brick,3,1.5,1.666666667,Male,Associate's (AA) Degree
+RnAQze77,paperclip,7,2.178571429,7,Female,Some college but no college degree
+rpI017nK,brick,5,1.7,3.333333333,Female,Master's Degree
+rQIW4S47,brick,6,1.625,3.666666667,Male,Doctoral or Law Degree
+RqMKS495,paperclip,4,2.3125,3.666666667,Female,High school graduate
+rsk3LtAs,brick,4,1.5625,3.666666667,Female,Associate's (AA) Degree
+RW7306rQ,paperclip,5,1.85,5,Male,No high school diploma and no GED
+s01B0XS8,paperclip,7,2.321428571,4.666666667,Female,Some college but no college degree
+S3aAC6d2,brick,3,2.25,3,Female,Some college but no college degree
+S3kVSz67,paperclip,6,2.125,4.333333333,Male,Doctoral or Law Degree
+s5l4YzV3,paperclip,4,2.9375,4,Male,Some college but no college degree
+S91lo83T,brick,6,1.5,4.333333333,Female,Master's Degree
+s9s2shYZ,paperclip,4,1.875,4,Female,High school graduate
+Sf3Ci2rQ,paperclip,4,2,4,Female,Some college but no college degree
+SGoXL6xi,paperclip,4,2.0625,4,Female,Some college but no college degree
+Sp2k68mD,paperclip,7,2.071428571,6.333333333,Female,Master's Degree
+SsoAOKdh,brick,5,2.4,4,Male,Associate's (AA) Degree
+sSyeENYV,brick,6,1.375,3.666666667,Female,Some college but no college degree
+sTF5ZTxJ,brick,8,1.5,4.666666667,Male,Some college but no college degree
+SVFD8luX,paperclip,5,1.65,4.666666667,Female,No high school diploma and no GED
+t05iL7ab,brick,1,1.25,1,Female,Bachelor's or RN degree
+T5Yw2Ip3,brick,4,1.1875,3,Male,Bachelor's or RN degree
+T7n32j0J,paperclip,7,1.714285714,7,Female,Bachelor's or RN degree
+T7PsWT76,paperclip,5,2.05,5,Male,Bachelor's or RN degree
+t7SqCvg4,paperclip,6,2.305555556,5.333333333,Female,Master's Degree
+t8r41bz3,paperclip,5,2.15,4.666666667,Male,Bachelor's or RN degree
+tcw0dt93,brick,8,1.71875,7,Female,Some college but no college degree
+tm3N4Hhj,brick,5,1.65,3.666666667,Male,Some graduate school
+Tpv6iUU1,paperclip,7,2.5,7,Male,Some graduate school
+TQg98tZ3,brick,5,1.95,4.333333333,Male,High school graduate
+TR0n5Xkg,brick,6,1.916666667,6,Female,Bachelor's or RN degree
+tsy7LR46,brick,10,2.025,9.666666667,Female,Some college but no college degree
+tt22103X,paperclip,5,2.6,5,Male,Master's Degree
+tWLQC3bA,brick,3,1.5,3,Female,Some college but no college degree
+Tz3xw8MP,paperclip,11,2.204545455,8.333333333,Female,General Equivalency Diploma (GED)
+tZR5oSUa,brick,3,1.916666667,3,Female,Bachelor's or RN degree
+U4KevCk0,paperclip,6,2.125,5.333333333,Male,Associate's (AA) Degree
+U5lKhUP3,brick,7,1.607142857,6.666666667,Male,Bachelor's or RN degree
+U72c3O7o,brick,7,1.857142857,5,Female,Bachelor's or RN degree
+U7FNiFGL,brick,4,1.75,2.666666667,Male,Some college but no college degree
+u8VJ80q4,brick,4,1.5625,4,Male,Associate's (AA) Degree
+UBn73eP3,paperclip,6,2.5,6,Female,Associate's (AA) Degree
+ug6a09uy,brick,7,1.75,6.333333333,Male,No high school diploma and no GED
+uirMt5sS,paperclip,5,1.8,4.333333333,Male,Bachelor's or RN degree
+uirSLy6r,paperclip,7,2.035714286,5.666666667,Male,Bachelor's or RN degree
+UJxMAI9L,brick,5,1.95,3.666666667,Female,Some college but no college degree
+unRY054i,brick,7,1.642857143,5.666666667,Female,Some college but no college degree
+uoqxFua9,paperclip,4,1.8125,4,Female,High school graduate
+URsOk93r,brick,7,1.714285714,7,Male,Bachelor's or RN degree
+UUCR5rl5,paperclip,8,2.34375,6.666666667,Female,Bachelor's or RN degree
+UUuMg7dW,paperclip,4,1.6875,3,Male,Bachelor's or RN degree
+Uwnf4T1Z,brick,8,1.885416667,5,Female,Some college but no college degree
+UwVX4qx3,brick,7,1.571428571,4.666666667,Female,Bachelor's or RN degree
+UXkwHd2D,brick,8,2.59375,7.666666667,Male,Bachelor's or RN degree
+uyxakIB8,brick,6,1.625,3.333333333,Male,Associate's (AA) Degree
+v1f48OH2,paperclip,6,1.541666667,4.666666667,"Other, please specify:",Associate's (AA) Degree
+V453P9LD,paperclip,7,2.285714286,5.666666667,Female,Bachelor's or RN degree
+v778GDsH,brick,7,2.214285714,6.666666667,Female,Some college but no college degree
+V8mxLJpC,paperclip,9,2.194444444,8,Female,Bachelor's or RN degree
+v913q7UQ,paperclip,5,2.05,5,Female,Some college but no college degree
+Vbp87P2F,paperclip,5,1.35,4.333333333,Male,High school graduate
+vC4vj6hv,paperclip,2,2.125,2,Male,Some college but no college degree
+VE8400EB,brick,13,2.057692308,7.333333333,Female,Associate's (AA) Degree
+vgUOi7TF,brick,9,2.416666667,7,Male,Associate's (AA) Degree
+VGv554rI,brick,5,2.1,4.666666667,Male,High school graduate
+vr0PJxJh,paperclip,10,2.225,7.666666667,Female,Bachelor's or RN degree
+vR19dSkW,brick,10,1.85,7.666666667,Female,Bachelor's or RN degree
+VRjUpNjw,paperclip,6,2.357142857,6.333333333,Female,Bachelor's or RN degree
+vWx8G5y2,paperclip,6,1.875,4.666666667,Female,Some college but no college degree
+w07hiE91,brick,13,2.230769231,10,Female,Bachelor's or RN degree
+w3MlrwM6,brick,4,1.1875,2,Female,Some college but no college degree
+w3Pi76uS,paperclip,8,2.0625,7,Female,Bachelor's or RN degree
+w4r5kjlA,paperclip,7,1.785714286,5.666666667,Female,Some college but no college degree
+W5edll8z,brick,8,1.875,5,Female,Some college but no college degree
+w5u3jOia,brick,7,1.892857143,6.666666667,Female,Bachelor's or RN degree
+W8K1dDJu,paperclip,7,2.75,6.333333333,Female,Some graduate school
+WEM1cAry,paperclip,5,2.383333333,4.666666667,Female,High school graduate
+WEq5Z4hI,brick,3,1.333333333,1,Female,Some college but no college degree
+wIkD9Pai,brick,5,1.55,5,Female,Some graduate school
+wJ77G1q1,paperclip,5,2.15,4.333333333,Female,Some college but no college degree
+wl41F5Rd,paperclip,11,2.590909091,10.66666667,Male,Bachelor's or RN degree
+ww8QYGoO,paperclip,7,1.928571429,6.333333333,Female,Master's Degree
+WzURBE7G,paperclip,5,1.95,5,Female,Bachelor's or RN degree
+X0Z1I47H,brick,4,1.875,4,Male,Some college but no college degree
+xdelf5qw,brick,6,1.736111111,5.666666667,Male,Master's Degree
+xhJVpr9P,brick,5,1.95,4.333333333,Female,Bachelor's or RN degree
+XKBw637F,brick,5,1.8,4.666666667,Female,General Equivalency Diploma (GED)
+XkILwh3o,brick,7,1.75,6.666666667,Female,Doctoral or Law Degree
+xL8VzZto,brick,8,2.59375,5.5,Female,Bachelor's or RN degree
+XOCpce4N,brick,11,1.704545455,6,Female,High school graduate
+xreh095d,brick,7,2.142857143,3.666666667,Female,Some college but no college degree
+XsiaT39r,brick,10,1.975,9.666666667,Female,Master's Degree
+xt183kcM,brick,3,2.166666667,3,Female,Some college but no college degree
+XToyk20a,brick,9,1.777777778,8,Female,Bachelor's or RN degree
+XUgbTC6X,brick,5,2,4.333333333,Female,No high school diploma and no GED
+xW7eohB9,paperclip,5,2.1,5,Female,Bachelor's or RN degree
+XwHlC4TU,brick,4,2.0625,4,Female,Associate's (AA) Degree
+Y25HD9n2,paperclip,6,2.125,6,Female,Associate's (AA) Degree
+Y2cD7y3X,paperclip,8,2.09375,6.666666667,Female,High school graduate
+y41k3650,paperclip,3,1.666666667,2.666666667,Male,High school graduate
+y42hKMsQ,brick,10,2.1,9.666666667,Female,Some college but no college degree
+Y55OrqzC,paperclip,5,2.65,4.333333333,Female,General Equivalency Diploma (GED)
+Y5x88087,brick,8,1.4375,2.666666667,Male,Associate's (AA) Degree
+y5XIy25u,paperclip,6,2.041666667,4.333333333,Female,Associate's (AA) Degree
+Y6U1qj7v,brick,4,2.75,4,Male,Bachelor's or RN degree
+y6ZLJ0s9,brick,7,2.107142857,6.666666667,Female,Some college but no college degree
+y89Nm2JI,paperclip,8,2.15625,6.333333333,Female,Some college but no college degree
+y8a88PFJ,brick,4,1.5625,3.666666667,Female,Bachelor's or RN degree
+yE2Emi7f,brick,7,1.857142857,3.666666667,Female,Some college but no college degree
+YFPUia8r,paperclip,3,2.083333333,3,Male,High school graduate
+yI7c2ST0,brick,7,1.5,3.333333333,Female,Master's Degree
+yi89Nvu5,paperclip,7,2.142857143,7,Female,Some college but no college degree
+YkV9xA5d,brick,7,3.357142857,7,Female,Master's Degree
+YLoXKL0w,brick,11,1.931818182,4.666666667,Female,High school graduate
+YMnv29gG,brick,3,1.666666667,2.666666667,Female,Bachelor's or RN degree
+Yn49gHlm,brick,8,2.0625,5.666666667,Female,Some graduate school
+Yp17d9cU,brick,4,1.3125,3,Female,Associate's (AA) Degree
+YpLqZ40R,brick,6,1.333333333,2.666666667,Female,Bachelor's or RN degree
+Yr7E95zL,brick,7,1.375,5.333333333,Female,High school graduate
+yscNNYUT,brick,3,1.75,1.666666667,Female,High school graduate
+YYqZo504,brick,5,1.866666667,5,Female,Bachelor's or RN degree
+yZL3i8hJ,brick,11,1.818181818,5.666666667,Female,Bachelor's or RN degree
+z22yJ31W,brick,5,1.75,5,Female,High school graduate
+z75ZpTqa,brick,5,1.75,2.666666667,Female,High school graduate
+z793il3x,brick,6,2,5.333333333,Female,Some college but no college degree
+z7LH0dDt,brick,5,1.65,3,Female,Bachelor's or RN degree
+zaTZTqFs,brick,12,1.729166667,8.333333333,Male,Bachelor's or RN degree
+zdyei4a2,paperclip,6,2.208333333,5.666666667,Female,High school graduate
+ZF13l8N3,paperclip,5,2.75,5,Female,Associate's (AA) Degree
+ZfDzR06v,paperclip,3,1.833333333,3,Female,Some college but no college degree
+zI5OmzVB,paperclip,7,2.464285714,5,Female,Some college but no college degree
+Zkew908t,paperclip,2,2.5,2,Male,Some college but no college degree
+zLKWIxYM,paperclip,7,2.035714286,6,Female,High school graduate
+zQDNuQPL,brick,6,1.625,5.333333333,Male,Some college but no college degree
+zRMvwdx6,brick,3,1.083333333,1.333333333,Male,General Equivalency Diploma (GED)
+zVpN53Ht,paperclip,5,2.05,5,Female,Some college but no college degree
+zvXd0H7K,brick,8,1.572916667,7.333333333,Male,Associate's (AA) Degree
