@@ -535,3 +535,62 @@ def run_experiment(exp_arg):
             print("You have unfinished annotations.")
         else:
             export_annotations(exp_arg['experiment_name'])
+
+def process_and_merge_sorted_csvs(
+    study_prefix,
+    llm_model,
+    prompt_method,
+    embedding_code,
+    comparison_k,
+    replication_id,
+    object_names,
+    base_path='exports'
+):
+    """
+    Sorts and merges annotated idea CSVs from experiment folders based on naming conventions.
+
+    Parameters:
+        study_prefix (str): Prefix for the experiment name (e.g., 'simpl_prmpt').
+        llm_model (str): Model identifier (e.g., 'phi4', 'llama3.3').
+        prompt_method (str): Either 'CoT' or 'baseline'.
+        embedding_code (int): Embedding method code.
+        comparison_k (int): Number of comparison ideas.
+        replication_id (int): Replication ID or seed.
+        base_path (str): Root folder containing experiment folders.
+    """
+     
+
+    # Sanitize model name
+    model_clean = llm_model.replace('.', '_').replace(':', '_')
+
+    # Generate experiment names
+    experiment_names = [
+        f"{study_prefix}_{model_clean}_{prompt_method}_{obj}_e{embedding_code}_k{comparison_k}_r{replication_id}"
+        for obj in object_names
+    ]
+
+    all_dfs = []
+
+    for exp_name in experiment_names:
+        folder_path = os.path.join(base_path, exp_name)
+        original_csv = f"{exp_name}_annotated_ideas.csv"
+        original_path = os.path.join(folder_path, original_csv)
+
+        # Load and sort
+        df = pd.read_csv(original_path)
+        df_sorted = df.sort_values(by=['idea_for_user_ids','idea_ids'], ascending=[True, True])
+
+        # Save sorted version
+        sorted_csv = f"{exp_name}_annotated_ideas_sorted.csv"
+        sorted_path = os.path.join(folder_path, sorted_csv)
+        df_sorted.to_csv(sorted_path, index=False)
+
+        all_dfs.append(df_sorted)
+
+    # Merge and save
+    final_df = pd.concat(all_dfs, ignore_index=True)
+
+    # Use common prefix (removing object_name)
+    merged_prefix = f"{study_prefix}_{model_clean}_{prompt_method}_e{embedding_code}_k{comparison_k}_r{replication_id}"
+    final_merged_path = os.path.join(base_path, f"{merged_prefix}_all.csv")
+    final_df.to_csv(final_merged_path, index=False)
