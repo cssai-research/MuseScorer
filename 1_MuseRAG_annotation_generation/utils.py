@@ -538,9 +538,9 @@ def run_experiment(exp_arg):
 
 def process_and_merge_sorted_csvs(
     study_prefix,
-    llm_model,
-    prompt_method,
-    embedding_code,
+    llm_index,
+    prompt_index,
+    embedding_index,
     comparison_k,
     replication_id,
     object_names,
@@ -559,13 +559,9 @@ def process_and_merge_sorted_csvs(
         base_path (str): Root folder containing experiment folders.
     """
      
-
-    # Sanitize model name
-    model_clean = llm_model.replace('.', '_').replace(':', '_')
-
     # Generate experiment names
     experiment_names = [
-        f"{study_prefix}_{model_clean}_{prompt_method}_{obj}_e{embedding_code}_k{comparison_k}_r{replication_id}"
+        f"{study_prefix}_m{llm_index}_p{prompt_index}_e{embedding_index}_k{comparison_k}_r{replication_id}_{object_name}"
         for obj in object_names
     ]
 
@@ -591,6 +587,50 @@ def process_and_merge_sorted_csvs(
     final_df = pd.concat(all_dfs, ignore_index=True)
 
     # Use common prefix (removing object_name)
-    merged_prefix = f"{study_prefix}_{model_clean}_{prompt_method}_e{embedding_code}_k{comparison_k}_r{replication_id}"
+    merged_prefix = f"{study_prefix}_m{llm_index}_p{prompt_index}_e{embedding_index}_k{comparison_k}_r{replication_id}"
     final_merged_path = os.path.join(base_path, f"{merged_prefix}_all.csv")
     final_df.to_csv(final_merged_path, index=False)
+    print(f"📦 Exported merged CSV for '{experiment_name}' to 'exports/' folder.\n\n==================\n\n")
+    
+
+def muserag(study_prefix,llm_index,prompt_index,embedding_index,comparison_k,replication_id,object_names):
+    llm_choice_dict = {
+        1: "llama3.3", 
+        2: "phi4", 
+        3: "qwen3"
+    }
+    
+    prompt_choice_dict = {
+        1: "baseline", 
+        2: "CoT", 
+    }
+    
+    embedding_choice_dict = {
+        1: "mixedbread-ai/mxbai-embed-large-v1", 
+        2: "intfloat/e5-large-v2", 
+        3: "all-mpnet-base-v2", 
+        4: "BAAI/bge-large-en-v1.5"
+    }
+    
+    llm_model = llm_choice_dict[llm_index]
+    prompt_method = prompt_choice_dict[prompt_index]
+    embedding_code = embedding_choice_dict[embedding_index]
+    
+    # the rest will take care of itself
+    for object_name in object_names: 
+        exp_arg = {
+            'experiment_name': f"{study_prefix}_m{llm_index}_p{prompt_index}_e{embedding_index}_k{comparison_k}_r{replication_id}_{object_name}",
+            'object_name': object_name, 
+            'input_csv_path': f"input_files/ideas_{object_name}.csv",
+            'llm_model': llm_model, 
+            'prompt_method': prompt_method,
+            'replication_id': replication_id,
+            'comparison_k': comparison_k,
+            'save_csvs': True,
+            'max_attempts':3,
+            'embedding_model': embedding_code
+        }
+        run_experiment(exp_arg)
+        
+    process_and_merge_sorted_csvs(study_prefix,llm_index,prompt_index,embedding_index,comparison_k,replication_id,object_names,base_path='exports')
+    
