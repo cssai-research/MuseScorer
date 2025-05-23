@@ -562,7 +562,7 @@ def process_and_merge_sorted_csvs(
     # Generate experiment names
     experiment_names = [
         f"{study_prefix}_m{llm_index}_p{prompt_index}_e{embedding_index}_k{comparison_k}_r{replication_id}_{object_name}"
-        for obj in object_names
+        for object_name in object_names
     ]
 
     all_dfs = []
@@ -590,7 +590,7 @@ def process_and_merge_sorted_csvs(
     merged_prefix = f"{study_prefix}_m{llm_index}_p{prompt_index}_e{embedding_index}_k{comparison_k}_r{replication_id}"
     final_merged_path = os.path.join(base_path, f"{merged_prefix}_all.csv")
     final_df.to_csv(final_merged_path, index=False)
-    print(f"📦 Exported merged CSV for '{experiment_name}' to 'exports/' folder.\n\n==================\n\n")
+    print(f"📦 Exported merged CSV for '{merged_prefix}' to 'exports/' folder.\n\n==================\n\n")
     
 
 def muserag(study_prefix,llm_index,prompt_index,embedding_index,comparison_k,replication_id,object_names):
