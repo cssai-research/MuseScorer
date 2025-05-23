@@ -114,7 +114,8 @@ These are ready for analysis (e.g., originality score calculation via frequency-
 
 This tool was developed as part of a larger research initiative on **scalable human-AI creativity assessments**. For technical details, see:
 
-> \[A. S. Bangash, K. Veera, I. A. Islam, R. A. Baten, MuseRAG: Idea Originality Scoring At Scale, arXiv preprint arxiv:2505.16232, 2025 (https://arxiv.org/pdf/2505.16232)]
+> [MuseRAG: Idea Originality Scoring At Scale](https://arxiv.org/pdf/2505.16232)
+> A. S. Bangash, K. Veera, I. A. Islam, R. A. Baten, *arXiv preprint arxiv:2505.16232*, 2025
 
 ---
 
