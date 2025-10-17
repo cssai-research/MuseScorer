@@ -1,6 +1,6 @@
 # MuseScorer: Idea Originality Scoring At Scale
 
-This repository contains a fully automated pipeline to score the **originality of ideas** in Guilford’s Alternative Uses Test (AUT), using large language models (LLMs) and an externally orchestrated Retrieval-Augmented Generation (RAG) framework.
+This repository contains a fully automated pipeline to score the **originality of ideas** in Guilford’s Alternative Uses Test (AUT), using large language models (LLMs) and an externally orchestrated retrieval framework.
 
 Citation:
 > A. S. Bangash, K. Veera, I. A. Islam, R. A. Baten, [MuseScorer: Idea Originality Scoring At Scale](https://arxiv.org/pdf/2505.16232), <i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</i>, 2025 (EMNLP 2025)
