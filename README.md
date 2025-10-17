@@ -116,7 +116,7 @@ These are ready for analysis (e.g., originality score calculation via frequency-
 
 This tool was developed as part of a larger research initiative on **scalable human-AI creativity assessments**. For technical details, see:
 
-> [A. S. Bangash, K. Veera, I. A. Islam, R. A. Baten, MuseScorer: Idea Originality Scoring At Scale, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025 (EMNLP 2025)](https://arxiv.org/pdf/2505.16232)
+> A. S. Bangash, K. Veera, I. A. Islam, R. A. Baten, MuseScorer: Idea Originality Scoring At Scale, <i>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</i>, 2025 (EMNLP 2025) [Preprint](https://arxiv.org/pdf/2505.16232)
 
 ---
 
